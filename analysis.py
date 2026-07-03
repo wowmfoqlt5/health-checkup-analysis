@@ -22,6 +22,8 @@ from utils.utils import (
     run_2group, run_multigroup, posthoc, run_chi2,
 )
 
+# 설명 셀 추가
+
 # %%
 # ── [결과 폴더] results/figures, results/tables 를 만들어 둡니다 ──
 BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
